@@ -10,20 +10,24 @@ Install dependencies in your project:
 
 Create a .eslintrc.json file in the root of your project with the following:
 
-    {
-      "extends": [
-        "technigo"
-      ]
-    }
+```
+{
+  "extends": [
+    "technigo"
+  ]
+}
+```
 
 ## Usage
 
 To make life easier, add a new "lint" script to your scripts in package.json:
 
-    {
-      "scripts": {
-        "lint": "eslint ."
-      }
-    }
+```
+{
+  "scripts": {
+    "lint": "eslint ."
+  }
+}
+```
 
 Then run in your project with `npm run lint`
