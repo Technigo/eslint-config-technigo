@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-technigo",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Technigo ESlint config, extending Airbnb's with some variations.",
   "main": "index.js",
   "scripts": {
@@ -16,14 +16,7 @@
     "url": "https://github.com/Technigo/eslint-config-technigo/issues"
   },
   "homepage": "https://github.com/Technigo/eslint-config-technigo#readme",
-  "peerDependencies": {
-    "eslint": ">= 4",
-    "eslint-config-airbnb": ">= 16",
-    "eslint-plugin-import": ">= 2",
-    "eslint-plugin-jsx-a11y": ">= 6",
-    "eslint-plugin-react": ">= 7"
-  },
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^4.11.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
