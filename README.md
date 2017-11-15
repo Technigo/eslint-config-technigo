@@ -20,10 +20,10 @@ Create a .eslintrc.json file in the root of your project with the following:
 
 To make life easier, add a new "lint" script to your scripts in package.json:
 
-   {
-     "scripts": {
-       "lint": "eslint ."
-     }
-   }
+    {
+      "scripts": {
+        "lint": "eslint ."
+      }
+    }
 
 Then run in your project with `npm run lint`
