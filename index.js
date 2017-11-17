@@ -58,7 +58,7 @@ module.exports = {
     "react/no-direct-mutation-state": "error",
     "react/no-multi-comp": ["error", { "ignoreStateless": true }],
     "react/no-string-refs": "error",
-    "react/prefer-stateless-function": "warn",
+    "react/prefer-stateless-function": "off", // TODO change back to "warn" soon, once we go through stateless functions
     "react/prop-types": "off",
     "react/require-extension": "off",
     "react/sort-comp": "off",
