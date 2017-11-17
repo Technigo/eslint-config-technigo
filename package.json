@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-technigo",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Technigo ESlint config, extending Airbnb's with some variations.",
   "main": "index.js",
   "scripts": {
