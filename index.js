@@ -33,6 +33,7 @@ module.exports = {
     "import/no-unresolved": "off",
     "import/prefer-default-export": "off",
     "indent": ["error", 2, { "SwitchCase": 1 }],
+    "jsx-a11y/anchor-is-valid": "off",
     "jsx-a11y/label-has-for": "off",
     "jsx-a11y/href-no-hash": "off",
     "no-alert": "off",
