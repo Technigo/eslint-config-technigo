@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Technigo/eslint-config-technigo#readme",
   "dependencies": {
+    "babel-eslint": "^8.0.2",
     "eslint": "^4.11.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
