@@ -22,8 +22,7 @@ module.exports = {
     }
   },
   "rules": {
-    "arrow-body-style": "off", // TODO - re-enable
-    "arrow-parens": ["error"], // TODO - change to ["error", "as-needed"]
+    "arrow-parens": ["error", "as-needed"],
     "class-methods-use-this": "off",
     "brace-style": ["error", "1tbs", { "allowSingleLine": true }],
     "comma-dangle": ["error", "never"],
